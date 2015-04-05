@@ -1,0 +1,1 @@
+{"mixinTypes":["contribution"],"runners":{"configs":{"system:/javascript/web/simple":{"ram":0,"variables":{},"options":{}}},"default":"system:/javascript/web/simple"},"builders":{"configs":{}},"description":"","type":"AngularJS","attributes":{"language":["javascript"],"framework":["AngularJS"],"contribute_branch":["master"],"contribute_mode":["contribute"]}}
